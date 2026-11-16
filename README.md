@@ -66,4 +66,6 @@ For a more reliable local preview, you can use the VS Code **Live Server** exten
 ---
 
 Made by **Advani Rayandra Kahfi**.
-\n## Static-site limitations\n\nThis repository is a frontend-only project. The contact page links to the GitHub profile instead of collecting personal contact details, and the article comments are sample content only. There is no backend for sending messages or publishing comments.\n
+## Static-site limitations
+
+This repository is a frontend-only project. The contact page links to the GitHub profile instead of collecting personal contact details, and the article comments are sample content only. There is no backend for sending messages or publishing comments.\n
