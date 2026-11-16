@@ -31,9 +31,12 @@ A responsive personal website featuring a personal introduction, travel stories,
 No backend or package installation is required for the static website.
 
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/Arayandra/project-uts.git
+   git clone https://github.com/Arayandra/personal-website-travel-blog.git
+   cd personal-website-travel-blog
    ```
+
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
