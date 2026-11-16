@@ -15,7 +15,7 @@ A responsive personal website featuring a personal introduction, travel stories,
 - **About** — personal profile and background.
 - **Photography** — photography gallery and visual content.
 - **Single** — individual article/detail page.
-- **Contact** — contact information and contact page.
+- **Contact** — general location and a link to the GitHub profile; the page does not collect form submissions.
 
 ## Built With
 
@@ -66,3 +66,4 @@ For a more reliable local preview, you can use the VS Code **Live Server** exten
 ---
 
 Made by **Advani Rayandra Kahfi**.
+\n## Static-site limitations\n\nThis repository is a frontend-only project. The contact page links to the GitHub profile instead of collecting personal contact details, and the article comments are sample content only. There is no backend for sending messages or publishing comments.\n
